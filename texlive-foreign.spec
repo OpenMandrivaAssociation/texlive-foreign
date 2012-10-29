@@ -1,11 +1,11 @@
-# revision 27045
+# revision 27819
 # category Package
 # catalog-ctan /macros/latex/contrib/foreign
-# catalog-date 2012-07-03 11:28:15 +0200
+# catalog-date 2012-09-26 16:23:18 +0200
 # catalog-license lppl1.3
-# catalog-version 2.5
+# catalog-version 2.7
 Name:		texlive-foreign
-Version:	2.5
+Version:	2.7
 Release:	1
 Summary:	Systematic treatment of 'foreign' words in documents
 Group:		Publishing
