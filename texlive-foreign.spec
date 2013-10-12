@@ -1,11 +1,11 @@
-# revision 27045
+# revision 27819
 # category Package
 # catalog-ctan /macros/latex/contrib/foreign
-# catalog-date 2012-07-03 11:28:15 +0200
+# catalog-date 2012-09-26 16:23:18 +0200
 # catalog-license lppl1.3
-# catalog-version 2.5
+# catalog-version 2.7
 Name:		texlive-foreign
-Version:	2.5
+Version:	2.7
 Release:	1
 Summary:	Systematic treatment of 'foreign' words in documents
 Group:		Publishing
@@ -49,11 +49,3 @@ foreign words in documents.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.5-1
-+ Revision: 813497
-- Import texlive-foreign
-- Import texlive-foreign
-
