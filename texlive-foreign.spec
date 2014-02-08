@@ -6,7 +6,7 @@
 # catalog-version 2.5
 Name:		texlive-foreign
 Version:	2.5
-Release:	1
+Release:	2
 Summary:	Systematic treatment of 'foreign' words in documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/foreign
