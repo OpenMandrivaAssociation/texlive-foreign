@@ -1,6 +1,6 @@
 Name:		texlive-foreign
 Version:	27819
-Release:	1
+Release:	2
 Summary:	Systematic treatment of 'foreign' words in documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/foreign
