@@ -3,7 +3,7 @@ Version:	27819
 Release:	2
 Summary:	Systematic treatment of 'foreign' words in documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/foreign
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/foreign
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/foreign.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/foreign.doc.r%{version}.tar.xz
